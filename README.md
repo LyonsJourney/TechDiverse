@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my diverse GitHub repository! I'm a tech enthusiast, creator, and fitness enthusiast with a broad range of skills. From technology and virtualization to arts, fitness, and even making a mean pizza, I'm passionate about continuous learning and exploration.
+Welcome to my diverse GitHub repository! I'm a tech enthusiast, creator, and fitness enthusiast with a broad range of skills. From technology and virtualization to arts, fitness, and even making homemade pizza from scratch, I'm passionate about continuous learning and exploration.
 
 ## Skills
 
@@ -79,10 +79,9 @@ Welcome to my diverse GitHub repository! I'm a tech enthusiast, creator, and fit
    - Demonstrating network reset procedures and configurations.
 
 ### Arts and Creativity Projects
-
-1. **Pizza-Making Adventures**
-   - [Link to Repository]
-   - Sharing my pizza-making journey, from dough to deliciousness.
+1. **Photography**
+   - [www.alyonsproject.com/home]
+   - The World Through my Eyes
 
 ### Fitness and Lifestyle Projects
 
