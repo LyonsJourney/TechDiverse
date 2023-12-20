@@ -80,7 +80,7 @@ Welcome to my diverse GitHub repository! I'm a tech enthusiast, creator, and fit
 
 ### Arts and Creativity Projects
 1. **Photography**
-   - [www.alyonsproject.com/home]
+   - [www.alyonsjourney.com/home]
    - The World Through my Eyes
 
 ### Fitness and Lifestyle Projects
