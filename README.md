@@ -72,6 +72,7 @@ Welcome to my diverse GitHub repository! I'm a tech enthusiast, creator, and fit
 
 2. **Ubuntu Installation Guide**
    - [https://alyonsjourney.com/installing-ubuntu-on-oracle-virtualbox-a-basic-guide-to-setting-up-your-first-virtual-machine/]
+   - https://github.com/LyonsJourney/git-clone-https-github.com-your-username-Ubuntu-Installation-Guide.git-cd-Ubuntu-Installation-Guide
    - Documentation on installing Ubuntu using Oracle VirtualBox
 
 3. **Network Configuration and Resets**
