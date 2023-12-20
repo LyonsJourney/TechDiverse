@@ -70,9 +70,9 @@ Welcome to my diverse GitHub repository! I'm a tech enthusiast, creator, and fit
    - [Link to Repository]
    - Step-by-step guide for installing Windows 11 on virtual machines.
 
-2. **Laptop Hardware Upgrades**
-   - [Link to Repository]
-   - Documentation on installing RAM and replacing WiFi cards in laptops.
+2. **Ubuntu Installation Guide**
+   - [https://alyonsjourney.com/installing-ubuntu-on-oracle-virtualbox-a-basic-guide-to-setting-up-your-first-virtual-machine/]
+   - Documentation on installing Ubuntu using Oracle VirtualBox
 
 3. **Network Configuration and Resets**
    - [Link to Repository]
